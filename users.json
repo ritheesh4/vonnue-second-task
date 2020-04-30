@@ -1,0 +1,22 @@
+[
+    {
+        "name": "timna",
+        "id": 6,
+        "marks": [
+            {
+                "subject": "malayalam",
+                "mark": 60
+            }
+        ]
+    },
+    {
+        "name": "arun",
+        "id": 22,
+        "marks": [
+            {
+                "subject": "english",
+                "mark": 55
+            }
+        ]
+    }
+]
